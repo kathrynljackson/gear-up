@@ -27,7 +27,7 @@ After reading the articles above, create a gist on Github and reflect (4-6 sente
 
 #### What role does empathy play in your life and how has it helped you?
 
-⋅⋅⋅I would not describe myself as a naturally empathetic person. Empathy is something that I have had to actively work at as I've grown older. Having autism changes the way I express concern and even changes how I guage situations to measure concern. While most people view empathy as a character trait, I've moreso viewed it as a learning process.⋅⋅
+* ⋅⋅⋅I would not describe myself as a naturally empathetic person. Empathy is something that I have had to actively work at as I've grown older. Having autism changes the way I express concern and even changes how I guage situations to measure concern. While most people view empathy as a character trait, I've moreso viewed it as a learning process.⋅⋅
 
 
 * How does empathy help you build better software?

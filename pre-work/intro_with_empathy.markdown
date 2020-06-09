@@ -23,7 +23,7 @@ Read _two_ of the following articles/videos (we recommend all of them!) and refl
 ___
 
 ### Reflect
-After reading the articles above, create a gist on Github and reflect (4-6 sentences) on the following prompts.
+*After reading the articles above, create a gist on Github and reflect (4-6 sentences) on the following prompts.*
 
 #### What role does empathy play in your life and how has it helped you?
 
